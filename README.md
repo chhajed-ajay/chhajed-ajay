@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-- Currently studying at <a href="https://www.iiitb.ac.in/" target="_blank">IIITB</a>
-
-**chhajed-ajay/chhajed-ajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I do Competitive Programming. 
+- Currently studying at <a href="https://www.iiitb.ac.in/" target="_blank">IIITB</a>
+- 🔭 I do [Competitive Programming](https://codeforces.com/profile/chhajed7890). 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on anything interesting in computer science.
-- 👜 Tested an IoT application using AWS.
+- 👜 Tested an IoT application using [AWS](https://aws.amazon.com/).
 - 📁 [Portfolio](https://chhajed-ajay.github.io/)
 
 ### Languages 
@@ -30,5 +28,8 @@ Here are some ideas to get you started:
 
 ### Connect with me
 <a href="https://www.instagram.com/ajayjain___/"><img height = 50 src = "https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<a href="https://www.linkedin.com/in/ajay-chhajed-6853111b7/"><img height = 50 src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a>
+<a href="https://www.facebook.com/ajay.somu"><img height = 50 src = "https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" /></a>
+
 
 
