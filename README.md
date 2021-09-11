@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Hi there! I'm Ajay.
 
 - Currently studying at <a href="https://www.iiitb.ac.in/" target="_blank">IIITB</a>
 - 🔭 I do [Competitive Programming](https://codeforces.com/profile/chhajed7890). 
