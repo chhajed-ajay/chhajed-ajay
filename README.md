@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Currently studying at <a href="https://www.iiitb.ac.in/" target="_blank">IIITB</a>
 <!--
 **chhajed-ajay/chhajed-ajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
