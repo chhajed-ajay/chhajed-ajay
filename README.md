@@ -1,6 +1,6 @@
 ### Hi there! I'm Ajay.
 
-- Currently studying at <a href="https://www.iiitb.ac.in/" target="_blank">IIITB</a>
+- CSE post-graduate from <a href="https://www.iiitb.ac.in/" target="_blank">IIITB</a>
 - 🔭 I do [Competitive Programming](https://codeforces.com/profile/chhajed7890). 
 - 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate on anything interesting in computer science.
